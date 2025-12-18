@@ -1,0 +1,28 @@
+# Build results
+bin/
+obj/
+*.exe
+*.dll
+
+# Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+*.sln.docstates
+
+# IDE
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dependencies
+packages/
+.nuget/
+
+# Logs
+*.log
